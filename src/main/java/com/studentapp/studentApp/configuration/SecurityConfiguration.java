@@ -62,7 +62,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
         corsConfiguration.addAllowedOrigin("http://localhost:3000");
         corsConfiguration.addAllowedOrigin("https://polish-spelling-app.herokuapp.com");
         corsConfiguration.applyPermitDefaultValues();
-        corsConfiguration.setAllowedMethods(Arrays.asList("DELETE", "POST", "GET", "PUT", "PATCH"));
+        corsConfiguration.setAllowedMethods(Arrays.asList("DELETE", "POST", "GET", "PUT", "PATCH", "OPTIONS"));
         source.registerCorsConfiguration("/**", corsConfiguration);
         return source;
     }

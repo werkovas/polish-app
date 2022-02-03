@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16c49e6f.chunk.css",
+    "main.js": "/static/js/main.f7f40a80.chunk.js",
+    "main.js.map": "/static/js/main.f7f40a80.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e27d0644.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e27d0644.js.map",
+    "static/css/2.7d31e46d.chunk.css": "/static/css/2.7d31e46d.chunk.css",
+    "static/js/2.5d324ae6.chunk.js": "/static/js/2.5d324ae6.chunk.js",
+    "static/js/2.5d324ae6.chunk.js.map": "/static/js/2.5d324ae6.chunk.js.map",
+    "static/js/3.8330ef05.chunk.js": "/static/js/3.8330ef05.chunk.js",
+    "static/js/3.8330ef05.chunk.js.map": "/static/js/3.8330ef05.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7d31e46d.chunk.css.map": "/static/css/2.7d31e46d.chunk.css.map",
+    "static/css/main.16c49e6f.chunk.css.map": "/static/css/main.16c49e6f.chunk.css.map",
+    "static/js/2.5d324ae6.chunk.js.LICENSE.txt": "/static/js/2.5d324ae6.chunk.js.LICENSE.txt",
+    "static/media/15-153751_tortoise-silhouette-icons-png-george-washington-silhouette-clip.08dd6cd6.png": "/static/media/15-153751_tortoise-silhouette-icons-png-george-washington-silhouette-clip.08dd6cd6.png",
+    "static/media/bg.d63cfd51.png": "/static/media/bg.d63cfd51.png",
+    "static/media/jumping-rabbit-.61b31501.svg": "/static/media/jumping-rabbit-.61b31501.svg",
+    "static/media/obrazTLO.d7ae9d7e.png": "/static/media/obrazTLO.d7ae9d7e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e27d0644.js",
+    "static/css/2.7d31e46d.chunk.css",
+    "static/js/2.5d324ae6.chunk.js",
+    "static/css/main.16c49e6f.chunk.css",
+    "static/js/main.f7f40a80.chunk.js"
+  ]
+}

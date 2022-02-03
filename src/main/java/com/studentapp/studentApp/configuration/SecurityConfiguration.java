@@ -60,11 +60,14 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
         CorsConfiguration corsConfiguration = new CorsConfiguration();
         corsConfiguration.addAllowedOrigin("http://localhost:3000");
+        corsConfiguration.addAllowedOrigin("https://polish-spelling-app.herokuapp.com");
         corsConfiguration.applyPermitDefaultValues();
         corsConfiguration.setAllowedMethods(Arrays.asList("DELETE", "POST", "GET", "PUT", "PATCH"));
         source.registerCorsConfiguration("/**", corsConfiguration);
         return source;
     }
+
+
 
     @Override
     protected void configure(HttpSecurity http) throws Exception {
